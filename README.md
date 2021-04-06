@@ -1,4 +1,4 @@
-# B-tree
+# B+tree
 Implementation of Bplus tree in JAVA with following operations: 
 
 1. Initialize (m): create a new m-way B+ tree 
